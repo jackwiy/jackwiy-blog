@@ -1,7 +1,6 @@
 # Table of contents
 
-* [it-share](README.md)
-* [Untitled](untitled.md)
+* [简介](README.md)
 
 ## IT技术分享
 
@@ -10,13 +9,13 @@
 * [设计思路](it-share/she-ji-si-lu.md)
 * [移动端开发](it-share/yi-dong-duan-kai-fa.md)
 * [日常规划](it-share/ri-chang-gui-hua.md)
-* [安全测试](it-share/an-quan-ce-shi.md)
 * [团队管理](it-share/tuan-dui-guan-li.md)
 * [开发工具](it-share/kai-fa-gong-ju.md)
-* [代码管理](it-share/dai-ma-guan-li.md)
-* [服务器部署](it-share/fu-wu-qi-bu-shu.md)
-* [后端开发](it-share/hou-duan-kai-fa.md)
 * [前端开发](it-share/qian-duan-kai-fa.md)
+* [后端开发](it-share/hou-duan-kai-fa.md)
+* [代码管理](it-share/dai-ma-guan-li.md)
+* [安全测试](it-share/an-quan-ce-shi.md)
+* [服务器部署](it-share/fu-wu-qi-bu-shu.md)
 
 ## IT编程设计
 

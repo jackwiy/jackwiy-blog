@@ -5,8 +5,8 @@
 
 ## IT技术分享
 
-* [Untitled](it-share/untitled.md)
-* [Untitled](it-share/untitled-1.md)
+* [阅读书单](it-share/untitled.md)
+* [编程思路](it-share/untitled-1.md)
 
 ## IT编程设计
 

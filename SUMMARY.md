@@ -15,4 +15,5 @@
 ## IT生活娱乐
 
 * [21个令程序员泪流满面的瞬间](it-happy/21-ge-ling-cheng-xu-yuan-lei-liu-man-mian-de-shun-jian.md)
+* [三亚旅行规划](it-happy/san-ya-lv-hang-gui-hua.md)
 

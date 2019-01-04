@@ -2,11 +2,11 @@
 
 -- 技术设计思路
 
-![](https://cdn.nlark.com/yuque/0/2018/jpeg/149486/1542887873769-040831e0-9387-49ef-8331-ddfee1e623e2.jpeg)
+![](../.gitbook/assets/ji-shu-she-ji-si-lu.png)
 
 -- 互联网开发框架
 
-![](https://cdn.nlark.com/yuque/0/2018/jpeg/149486/1542889471710-edd463cf-b84f-4b1c-8b32-bb5b5ee506a1.jpeg)
+![](../.gitbook/assets/68747470733a2f2f63646e2e6e6c61726b2e636f6d2f79757175652f302f323031382f6a7065672f3134393438362f313534.png)
 
 -- 互联网盈利模式
 

@@ -12,3 +12,7 @@
 
 * [深入理解控制反转（IoC）和依赖注入（DI）](it-code/untitled.md)
 
+## IT生活娱乐
+
+* [21个令程序员泪流满面的瞬间](it-happy/21-ge-ling-cheng-xu-yuan-lei-liu-man-mian-de-shun-jian.md)
+

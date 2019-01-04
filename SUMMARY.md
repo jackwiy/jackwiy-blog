@@ -7,6 +7,7 @@
 
 * [阅读书单](it-share/untitled.md)
 * [编程思路](it-share/untitled-1.md)
+* [设计思路](it-share/she-ji-si-lu.md)
 
 ## IT编程设计
 

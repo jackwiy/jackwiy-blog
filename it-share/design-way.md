@@ -30,5 +30,5 @@
 
 -- Laravel目录文件结构说明
 
-![](../.gitbook/assets/laravel-mu-lu-wen-jian-jie-gou-shuo-ming.png)
+![](../.gitbook/assets/laravel-mu-lu-wen-jian-jie-gou-shuo-ming.jpg)
 

@@ -15,6 +15,8 @@
 * [开发工具](it-share/kai-fa-gong-ju.md)
 * [代码管理](it-share/dai-ma-guan-li.md)
 * [服务器部署](it-share/fu-wu-qi-bu-shu.md)
+* [后端开发](it-share/hou-duan-kai-fa.md)
+* [前端开发](it-share/qian-duan-kai-fa.md)
 
 ## IT编程设计
 

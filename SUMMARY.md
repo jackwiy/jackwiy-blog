@@ -8,6 +8,11 @@
 * [阅读书单](it-share/untitled.md)
 * [编程思路](it-share/untitled-1.md)
 * [设计思路](it-share/she-ji-si-lu.md)
+* [移动端开发](it-share/yi-dong-duan-kai-fa.md)
+* [日常规划](it-share/ri-chang-gui-hua.md)
+* [安全测试](it-share/an-quan-ce-shi.md)
+* [团队管理](it-share/tuan-dui-guan-li.md)
+* [开发工具](it-share/kai-fa-gong-ju.md)
 
 ## IT编程设计
 

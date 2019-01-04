@@ -13,6 +13,8 @@
 * [安全测试](it-share/an-quan-ce-shi.md)
 * [团队管理](it-share/tuan-dui-guan-li.md)
 * [开发工具](it-share/kai-fa-gong-ju.md)
+* [代码管理](it-share/dai-ma-guan-li.md)
+* [服务器部署](it-share/fu-wu-qi-bu-shu.md)
 
 ## IT编程设计
 

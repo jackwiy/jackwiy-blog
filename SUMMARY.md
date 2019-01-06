@@ -5,8 +5,6 @@
 ## IT技术分享
 
 * [阅读书单](it-share/book-list.md)
-* [编程思路](it-share/program-way.md)
-* [设计思路](it-share/design-way.md)
 * [日常规划](it-share/daily-plan.md)
 * [团队管理](it-share/team-management.md)
 * [开发工具](it-share/development-tools.md)
@@ -16,6 +14,8 @@
 * [代码管理](it-share/code-management.md)
 * [安全测试](it-share/security-testing.md)
 * [服务器部署](it-share/server-deployment.md)
+* [编程思路](it-share/program-way.md)
+* [设计思路](it-share/design-way.md)
 
 ## IT编程设计
 

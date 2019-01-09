@@ -18,3 +18,7 @@ ProcessOn 支持流程图、思维导图、原型图、UML、网络拓扑图等�
 
 优雅高效的在线文档编辑与协同工具,让每个企业轻松拥有文档中心。
 
+-- GitBook：[https://www.gitbook.com](https://www.gitbook.com)
+
+GitBook 是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Markdown 来制作精美的电子书，GitBook 并非关于 Git 的教程。
+

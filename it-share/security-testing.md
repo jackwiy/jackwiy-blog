@@ -12,6 +12,10 @@ Kali Linux预装了许多渗透测试软件，包括nmap 、Wireshark 、John th
 
 [https://hub.docker.com/r/kalilinux/kali-linux-docker/](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
 
+-- Kali工具集
+
+[https://www.kali.org/news/kali-linux-metapackages/](https://www.kali.org/news/kali-linux-metapackages/)
+
 -- Kali Linux 各种破解教程、渗透测试、逆向工程
 
 [https://github.com/tiancode/learn-hacking](https://github.com/tiancode/learn-hacking)

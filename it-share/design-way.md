@@ -18,7 +18,7 @@
 
 -- 开发设计工具
 
-![](../.gitbook/assets/kai-fa-she-ji-gong-ju.png)
+![](../.gitbook/assets/kai-fa-she-ji-gong-ju.jpg)
 
 -- Laravel文档阅读思路
 

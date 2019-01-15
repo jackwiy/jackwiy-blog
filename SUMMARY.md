@@ -13,8 +13,8 @@
 * [数据库设计](it-share/database-design.md)
 * [移动端开发](it-share/mobile-terminal-development.md)
 * [代码管理](it-share/code-management.md)
-* [安全测试](it-share/security-testing.md)
 * [服务器部署](it-share/server-deployment.md)
+* [安全测试](it-share/security-testing.md)
 * [编程思路](it-share/program-way.md)
 * [设计思路](it-share/design-way.md)
 

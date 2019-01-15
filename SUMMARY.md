@@ -10,6 +10,7 @@
 * [开发工具](it-share/development-tools.md)
 * [前端开发](it-share/front-end-development.md)
 * [后端开发](it-share/backend-development.md)
+* [数据库设计](it-share/database-design.md)
 * [移动端开发](it-share/mobile-terminal-development.md)
 * [代码管理](it-share/code-management.md)
 * [安全测试](it-share/security-testing.md)

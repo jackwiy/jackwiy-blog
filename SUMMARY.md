@@ -15,12 +15,12 @@
 * [数据库设计](it-share/database-design.md)
 * [服务器部署](it-share/server-deployment.md)
 * [安全测试](it-share/security-testing.md)
+* [编程思路](it-share/program-way.md)
+* [设计思路](it-share/design-way.md)
 
 ## IT编程设计
 
 * [什么是真正的程序员](it-code/shen-me-shi-zhen-zheng-de-cheng-xu-yuan.md)
-* [编程思路](it-code/program-way.md)
-* [设计思路](it-code/design-way.md)
 * [深入理解控制反转（IoC）和依赖注入（DI）](it-code/ioc-di.md)
 
 ## IT生活娱乐

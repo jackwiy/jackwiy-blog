@@ -22,6 +22,7 @@
 
 * [什么是真正的程序员](it-code/shen-me-shi-zhen-zheng-de-cheng-xu-yuan.md)
 * [深入理解控制反转（IoC）和依赖注入（DI）](it-code/ioc-di.md)
+* [PHP开发框架](it-code/php-kai-fa-kuang-jia.md)
 
 ## IT生活娱乐
 

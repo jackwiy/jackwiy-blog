@@ -6,7 +6,7 @@ Laravel全栈工匠级框架 [https://laravel.com/](https://laravel.com/)
 
 Luman基于Laravel组件构建的微框架 [https://lumen.golaravel.com/docs/introduction/](https://lumen.golaravel.com/docs/introduction/)
 
-Symfony是一组可复用的PHP组件的框架 [http://www.symfonychina.com/](http://www.symfonychina.com/)
+Symfony是一组可复用的PHP组件框架 [http://www.symfonychina.com/](http://www.symfonychina.com/)
 
 Yaf基于PHP扩展C开发高性能框架 [https://secure.php.net/manual/zh/book.yaf.php](https://secure.php.net/manual/zh/book.yaf.php)
 

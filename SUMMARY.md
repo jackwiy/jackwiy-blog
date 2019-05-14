@@ -27,5 +27,6 @@
 ## IT生活娱乐
 
 * [21个令程序员泪流满面的瞬间](it-happy/it-joke.md)
+* [超全结婚准备清单及结婚细节流程](it-happy/marry-up.md)
 * [三亚旅行规划](it-happy/san-ya-travel-plans.md)
 

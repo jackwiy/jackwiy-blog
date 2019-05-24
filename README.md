@@ -1,6 +1,11 @@
+---
+description: Jackwiy - 个人博客
+---
+
 # 简介
 
-IT经验分享 By Jackwiy
-
-Click on it[ jackwiy.com](https://jackwiy.com)
+昵称：Jackwiy  
+现居：南昌  
+邮箱：jackwiy@163.com  
+博客：[https://jackwiy.com](https://jackwiy.com)
 

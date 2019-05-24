@@ -22,9 +22,5 @@ Linux是一套免费使用和自由传播的类Unix操作系统，是一个基�
 
 Nginx是异步框架的Web服务器，也可以用作反向代理，负载平衡器 和 HTTP缓存。该软件由Igor Sysoev 创建，并于2004年首次公开发布。 同名公司成立于2011年，以提供支持。Nginx是免费的开源软件，根据类BSD许可证的条款发布。一大部分Web服务器使用Nginx， 通常作为负载均衡器。
 
--- Tomcat：[http://tomcat.apache.org/](http://tomcat.apache.org/)​
-
-Tomcat提供了一个Jasper编译器用以将JSP编译成对应的Servlet。Tomcat的Servlet引擎通常与Apache或者其他Web服务器一起工作。除了用于开发过程中的调试以及那些对速度和事务处理只有很小要求的用户，很少会将Tomcat单独作为Web服务器。但随着版本的更新，正有越来越多的用户将其单独作为Web服务器用以那些对速度和可靠性有较高要求的环境中。
-
 
 

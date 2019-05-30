@@ -1,4 +1,4 @@
 # 订阅付费产品设计
 
-![](../.gitbook/assets/product-design.png)
+![](../.gitbook/assets/subscribe-product-design.png)
 

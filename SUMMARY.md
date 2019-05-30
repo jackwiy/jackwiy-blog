@@ -31,3 +31,7 @@
 * [超全结婚准备清单及结婚细节流程](it-happy/marry-up.md)
 * [三亚旅行规划](it-happy/san-ya-travel-plans.md)
 
+## IT产品设计
+
+* [订阅付费产品设计](it-chan-pin-she-ji/subscribe-product-design.md)
+

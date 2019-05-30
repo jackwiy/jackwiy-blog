@@ -21,6 +21,7 @@
 ## IT编程设计
 
 * [什么是真正的程序员](it-code/shen-me-shi-zhen-zheng-de-cheng-xu-yuan.md)
+* [vi / vim  键盘图](it-code/vi-vim-shortcuts.md)
 * [深入理解控制反转（IoC）和依赖注入（DI）](it-code/ioc-di.md)
 * [PHP开发框架](it-code/php-development-framework.md)
 

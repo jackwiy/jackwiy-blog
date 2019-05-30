@@ -33,5 +33,5 @@
 
 ## IT产品设计
 
-* [订阅付费产品设计](it-chan-pin-she-ji/subscribe-product-design.md)
+* [订阅付费产品设计](it-product-design/subscribe-product-design.md)
 

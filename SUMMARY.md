@@ -2,7 +2,7 @@
 
 * [简介](README.md)
 
-## IT技术分享
+## IT技术分享 <a id="it-share"></a>
 
 * [阅读书单](it-share/book-list.md)
 * [日常规划](it-share/daily-plan.md)
@@ -18,20 +18,21 @@
 * [编程思路](it-share/program-way.md)
 * [设计思路](it-share/design-way.md)
 
-## IT编程设计
+## IT编程设计 <a id="it-code"></a>
 
 * [什么是真正的程序员](it-code/shen-me-shi-zhen-zheng-de-cheng-xu-yuan.md)
 * [vi / vim  键盘图](it-code/vi-vim-shortcuts.md)
 * [深入理解控制反转（IoC）和依赖注入（DI）](it-code/ioc-di.md)
+* [Docker部署LNMP](it-code/lnmp-for-docker.md)
 * [PHP开发框架](it-code/php-development-framework.md)
 
-## IT生活娱乐
+## IT生活娱乐 <a id="it-happy"></a>
 
 * [21个令程序员泪流满面的瞬间](it-happy/it-joke.md)
 * [超全结婚准备清单及结婚细节流程](it-happy/marry-up.md)
 * [三亚旅行规划](it-happy/san-ya-travel-plans.md)
 
-## IT产品设计
+## IT产品设计 <a id="it-product-design"></a>
 
 * [订阅付费产品设计](it-product-design/subscribe-product-design.md)
 

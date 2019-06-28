@@ -172,7 +172,7 @@ $ docker run --name php-fpm --link mysql:mysql -v ~/www/html:/var/www/html -v ~/
 server {
     listen       80;
     server_name  _;
-    root /usr/share/nginx/html;
+    root /var/www/html;
     index index.php index.html index.htm;
 
     #charset koi8-r;
@@ -181,7 +181,7 @@ server {
     location / {
         #root   /usr/share/nginx/html;
         #index  index.php index.html index.htm;
-	try_files $uri $uri/ =404;
+	    try_files $uri $uri/ =404;
     }
 
     error_page  404  /404.html;

@@ -21,7 +21,7 @@
 ## IT编程设计 <a id="it-code"></a>
 
 * [什么是真正的程序员](it-code/shen-me-shi-zhen-zheng-de-cheng-xu-yuan.md)
-* [掌握IT技术](it-code/zhang-wo-it-ji-shu.md)
+* [掌握IT技术](it-code/learn-it.md)
 * [Docker部署LNMP](it-code/lnmp-for-docker.md)
 * [PHP开发框架](it-code/php-development-framework.md)
 * [深入理解控制反转（IoC）和依赖注入（DI）](it-code/ioc-di.md)

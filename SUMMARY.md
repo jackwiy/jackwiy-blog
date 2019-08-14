@@ -21,17 +21,18 @@
 ## IT编程设计 <a id="it-code"></a>
 
 * [什么是真正的程序员](it-code/shen-me-shi-zhen-zheng-de-cheng-xu-yuan.md)
-* [掌握IT技术](it-code/learn-it.md)
 * [Docker部署LNMP](it-code/lnmp-for-docker.md)
 * [PHP开发框架](it-code/php-development-framework.md)
 * [深入理解控制反转（IoC）和依赖注入（DI）](it-code/ioc-di.md)
 * [vi / vim  键盘图](it-code/vi-vim-shortcuts.md)
+* [IT技术掌握情况](it-code/learn-it.md)
 
 ## IT生活娱乐 <a id="it-happy"></a>
 
 * [21个令程序员泪流满面的瞬间](it-happy/it-joke.md)
 * [超全结婚准备清单及结婚细节流程](it-happy/marry-up.md)
 * [三亚旅行规划](it-happy/san-ya-travel-plans.md)
+* [手机服务应用](it-happy/mobile-app.md)
 
 ## IT产品设计 <a id="it-product-design"></a>
 

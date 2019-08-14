@@ -1,4 +1,4 @@
-# 掌握IT技术
+# IT技术掌握情况
 
 ![](../.gitbook/assets/learn-it.jpg)
 

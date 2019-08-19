@@ -1,4 +1,4 @@
-# Docker部署LNMP
+# Docker-部署LNMP
 
 在Docker中部署LNMP环境可以分为以下几个步骤：
 

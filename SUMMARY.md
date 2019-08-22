@@ -21,7 +21,7 @@
 ## IT编程设计 <a id="it-code"></a>
 
 * [IT-Web开发入门](it-code/itweb-kai-fa-ru-men.md)
-* [IT-技术掌握情况](it-code/learn-it.md)
+* [IT-掌握开发技能](it-code/learn-it.md)
 * [Docker-部署LNMP](it-code/lnmp-for-docker.md)
 * [PHP-开发框架](it-code/php-development-framework.md)
 * [深入理解控制反转（IoC）和依赖注入（DI）](it-code/ioc-di.md)

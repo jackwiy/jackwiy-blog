@@ -1,5 +1,5 @@
 ---
-description: Jackwiy - 个人博客
+description: Jackwiy - 博客
 ---
 
 # 简介

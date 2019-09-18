@@ -16,12 +16,13 @@
 * [服务器部署](it-share/server-deployment.md)
 * [安全测试](it-share/security-testing.md)
 * [编程思路](it-share/program-way.md)
-* [设计思路](it-share/design-way.md)
+* [开发路线图](it-share/developer-roadmap.md)
 
 ## IT编程设计 <a id="it-code"></a>
 
 * [IT-Web开发入门](it-code/itweb-kai-fa-ru-men.md)
 * [IT-掌握开发技能](it-code/learn-it.md)
+* [IT-设计思路](it-code/design-way.md)
 * [Docker-部署LNMP](it-code/lnmp-for-docker.md)
 * [PHP-开发框架](it-code/php-development-framework.md)
 * [深入理解控制反转（IoC）和依赖注入（DI）](it-code/ioc-di.md)

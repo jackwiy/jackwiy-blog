@@ -35,6 +35,7 @@
 * [超全结婚准备清单及结婚细节流程](it-happy/marry-up.md)
 * [三亚旅行规划](it-happy/san-ya-travel-plans.md)
 * [手机服务应用](it-happy/mobile-app.md)
+* [汽车使用手册](it-happy/car-book.md)
 
 ## IT产品设计 <a id="it-product-design"></a>
 

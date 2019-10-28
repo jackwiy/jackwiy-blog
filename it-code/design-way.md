@@ -20,15 +20,7 @@
 
 ![](../.gitbook/assets/kai-fa-she-ji-gong-ju.jpg)
 
--- Laravel文档阅读思路
-
-![](../.gitbook/assets/laravel-wen-dang-yue-du-si-lu.png)
-
 -- 开发架构思路
 
 ![](../.gitbook/assets/kai-fa-jia-gou-si-lu.png)
-
--- Laravel目录文件结构说明
-
-![](../.gitbook/assets/laravel-mu-lu-wen-jian-jie-gou-shuo-ming.jpg)
 

@@ -16,10 +16,6 @@
 
 ![](../.gitbook/assets/pai-xu-suan-fa.jpeg)
 
--- PHP-开源系统
-
-![](../.gitbook/assets/php-kai-yuan-xi-tong.jpeg)
-
 -- PHP-编程语言
 
 ![](../.gitbook/assets/php-bian-cheng-yu-yan.jpeg)

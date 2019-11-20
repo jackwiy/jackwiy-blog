@@ -20,17 +20,17 @@
 
 ## IT编程设计 <a id="it-code"></a>
 
+* [vi / vim-键盘图](it-code/vi-vim-shortcuts.md)
+* [什么是真正的程序员](it-code/shen-me-shi-zhen-zheng-de-cheng-xu-yuan.md)
 * [IT-Web开发入门](it-code/itweb-kai-fa-ru-men.md)
 * [IT-掌握开发技能](it-code/learn-it.md)
 * [IT-设计思路](it-code/design-way.md)
-* [Docker-部署LNMP](it-code/lnmp-for-docker/README.md)
-  * [Go-面向对象](it-code/lnmp-for-docker/go-mian-xiang-dui-xiang.md)
+* [PHP-深入理解控制反转（IoC）和依赖注入（DI）](it-code/ioc-di.md)
 * [PHP-开发框架](it-code/php-development-framework.md)
 * [PHP-开源系统](it-code/php-kai-yuan-xi-tong.md)
-* [PHP-深入理解控制反转（IoC）和依赖注入（DI）](it-code/ioc-di.md)
-* [vi / vim-键盘图](it-code/vi-vim-shortcuts.md)
-* [什么是真正的程序员](it-code/shen-me-shi-zhen-zheng-de-cheng-xu-yuan.md)
 * [Laravel-框架说明](it-code/laravel-help.md)
+* [Docker-部署LNMP](it-code/lnmp-for-docker.md)
+* [Go-面向对象](it-code/go-mian-xiang-dui-xiang.md)
 
 ## IT生活娱乐 <a id="it-happy"></a>
 

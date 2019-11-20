@@ -25,7 +25,7 @@
 * [IT-设计思路](it-code/design-way.md)
 * [Docker-部署LNMP](it-code/lnmp-for-docker.md)
 * [PHP-开发框架](it-code/php-development-framework.md)
-* [深入理解控制反转（IoC）和依赖注入（DI）](it-code/ioc-di.md)
+* [PHP-深入理解控制反转（IoC）和依赖注入（DI）](it-code/ioc-di.md)
 * [vi / vim-键盘图](it-code/vi-vim-shortcuts.md)
 * [什么是真正的程序员](it-code/shen-me-shi-zhen-zheng-de-cheng-xu-yuan.md)
 * [Laravel-框架说明](it-code/laravel-help.md)

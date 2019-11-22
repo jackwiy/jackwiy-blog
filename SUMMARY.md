@@ -25,10 +25,12 @@
 * [IT-Web开发入门](it-code/itweb-kai-fa-ru-men.md)
 * [IT-掌握开发技能](it-code/learn-it.md)
 * [IT-设计思路](it-code/design-way.md)
-* [PHP-深入理解控制反转（IoC）和依赖注入（DI）](it-code/ioc-di.md)
 * [PHP-开发框架](it-code/php-development-framework.md)
 * [PHP-开源系统](it-code/php-kai-yuan-xi-tong.md)
+* [Laravel-数据处理与业务逻辑划分](it-code/laravel-solid.md)
+* [Laravel-深入理解控制反转（IoC）和依赖注入（DI）](it-code/ioc-di.md)
 * [Laravel-框架说明](it-code/laravel-help.md)
+* [Laravel-后台程序设计](it-code/it-backend-program-design.md)
 * [Docker-部署LNMP](it-code/lnmp-for-docker.md)
 * [Go-面向对象](it-code/go-mian-xiang-dui-xiang.md)
 

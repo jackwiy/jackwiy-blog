@@ -6,7 +6,7 @@ description: Jackwiy 's Blog
 
 昵称：Jackwiy
 
-邮箱：jackwiy@163.com
+邮箱：jackwiy@outlook.com
 
 主页：[https://jackwiy.com](https://jackwiy.com)
 

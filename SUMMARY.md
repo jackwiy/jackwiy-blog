@@ -1,28 +1,27 @@
 # Table of contents
 
 * [简介](README.md)
-* [Page 1](page-1/README.md)
-  * [阅读书单](page-1/book-list.md)
-  * [日常规划](page-1/daily-plan.md)
-  * [团队管理](page-1/team-management.md)
 
-## IT开发工具 <a href="#it-dev-tools" id="it-dev-tools"></a>
+## IT开发技术 <a href="#it-development" id="it-development"></a>
 
-* [开发工具](it-dev-tools/development-tools.md)
-* [前端开发](it-dev-tools/front-end-development.md)
-* [后端开发](it-dev-tools/backend-development.md)
-* [移动端开发](it-dev-tools/mobile-terminal-development.md)
-* [代码管理](it-dev-tools/code-management.md)
-* [数据库设计](it-dev-tools/database-design.md)
-* [服务器部署](it-dev-tools/server-deployment.md)
-* [安全测试](it-dev-tools/security-testing.md)
-* [PHP-编程技术](it-dev-tools/php-coding.md)
-* [Java-编程技术](it-dev-tools/java-coding.md)
-* [Python-编程技术](it-dev-tools/python-coding.md)
-* [Go-路线图](it-dev-tools/go-roadmap.md)
-* [前端路线图](it-dev-tools/frontend-map.md)
-* [后端路线图](it-dev-tools/backend-map.md)
-* [运维路线图](it-dev-tools/devops-map.md)
+* [阅读书单](it-development/book-list.md)
+* [日常规划](it-development/daily-plan.md)
+* [开发工具](it-development/development-tools.md)
+* [前端开发](it-development/front-end-development.md)
+* [后端开发](it-development/backend-development.md)
+* [移动端开发](it-development/mobile-terminal-development.md)
+* [代码管理](it-development/code-management.md)
+* [数据库设计](it-development/database-design.md)
+* [服务器部署](it-development/server-deployment.md)
+* [团队管理](it-development/team-management.md)
+* [安全测试](it-development/security-testing.md)
+* [PHP-编程技术](it-development/php-coding.md)
+* [Java-编程技术](it-development/java-coding.md)
+* [Python-编程技术](it-development/python-coding.md)
+* [Go-路线图](it-development/go-roadmap.md)
+* [前端路线图](it-development/frontend-map.md)
+* [后端路线图](it-development/backend-map.md)
+* [运维路线图](it-development/devops-map.md)
 
 ## IT编程设计 <a href="#it-code" id="it-code"></a>
 

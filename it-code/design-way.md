@@ -8,8 +8,6 @@
 
 ![](../.gitbook/assets/hu-lian-wang-kai-fa-kuang-jia.png)
 
-![](broken-reference)
-
 \-- 互联网盈利模式
 
 ![](../.gitbook/assets/hu-lian-wang-ying-li-mo-shi.png)

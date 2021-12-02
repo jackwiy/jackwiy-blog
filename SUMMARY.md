@@ -1,12 +1,13 @@
 # Table of contents
 
 * [简介](README.md)
+* [Page 1](page-1/README.md)
+  * [阅读书单](page-1/book-list.md)
+  * [日常规划](page-1/daily-plan.md)
+  * [团队管理](page-1/team-management.md)
 
 ## IT开发工具 <a href="#it-dev-tools" id="it-dev-tools"></a>
 
-* [阅读书单](it-dev-tools/book-list.md)
-* [日常规划](it-dev-tools/daily-plan.md)
-* [团队管理](it-dev-tools/team-management.md)
 * [开发工具](it-dev-tools/development-tools.md)
 * [前端开发](it-dev-tools/front-end-development.md)
 * [后端开发](it-dev-tools/backend-development.md)

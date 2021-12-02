@@ -84,6 +84,4 @@
 
 ![](../.gitbook/assets/it-joke-21.gif)
 
-  
-
-
+\
